@@ -1,7 +1,7 @@
-# K-Extractor
+# KExtor
 
 ## Description:
-K-Extractor is a program that extracts domain keywords from a corpus. Given a corpus of text files, the program selects possible candidates and decides whether the term is a domain keyword or not based on domain relevance and domain consensus. 
+KExtor is a program that extracts domain keywords from a corpus. Given a corpus of text files, the program selects possible candidates and decides whether the term is a domain keyword or not based on domain relevance and domain consensus. 
 
 ### Extraction
 The first step is to extract all terminology candidates from the corpus. The extractor considers all composite nouns in a paragraph if the paragraph:
